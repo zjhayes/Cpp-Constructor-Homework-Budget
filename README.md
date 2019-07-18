@@ -11,7 +11,7 @@ Create a class based on the monthly budget structure from last week but only inc
 
 # Also included, 
 
-in the Budget folder, is another assignment that splits the Budget project into .cpp and .sh files.
+in the Budget folder, is another assignment that splits the Budget project into .cpp and .h files.
 
 ## Requirements
 
